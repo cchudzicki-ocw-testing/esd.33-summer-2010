@@ -3,7 +3,12 @@ content_type: resource
 description: Lecture presentation on requirements engineering.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-33-systems-engineering-summer-2010/1292005d75bbb1badef7f9416fca2a1d_MITESD_33SUM10_lec04a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Requirements Engineering Part 1
+type: OCWFile
 uid: 1292005d-75bb-b1ba-def7-f9416fca2a1d
 ---

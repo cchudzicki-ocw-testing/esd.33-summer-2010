@@ -4,7 +4,12 @@ description: Lecture presentation providing a quick guide to critical parameter 
   and management.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-33-systems-engineering-summer-2010/69261b72bed60ec44f5e50c12fa7fade_MITESD_33SUM10_lec07b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: PDSS Critical Parameter Development & Mgt. Process Quick Guide
+type: OCWFile
 uid: 69261b72-bed6-0ec4-4f5e-50c12fa7fade
 ---

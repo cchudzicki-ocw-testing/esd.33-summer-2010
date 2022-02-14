@@ -4,7 +4,12 @@ description: Lecture presentation on innovation in systems engineering, individu
   creativity in systems design, and innovation in large systems.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/esd-33-systems-engineering-summer-2010/688d747edcfaea3428fa599b88c5a30d_MITESD_33SUM10_lec05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Innovation in Systems  Engineering
+type: OCWFile
 uid: 688d747e-dcfa-ea34-28fa-599b88c5a30d
 ---

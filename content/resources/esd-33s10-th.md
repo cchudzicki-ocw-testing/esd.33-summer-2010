@@ -11,7 +11,9 @@ image_metadata:
     #2 of this course. (Image by MIT OpenCourseWare.)'
   credit: ''
   image-alt: Fuel and engine management system diagram.
+learning_resource_types: []
 resourcetype: Image
 title: Fuel and Engine Management System (thumbnail)
+type: OCWImage
 uid: 4182173b-c6c9-1f51-4aae-b8dbd90e032b
 ---
