@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: Fuel and engine management system diagram.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Fuel and Engine Management System (thumbnail)
 uid: 4182173b-c6c9-1f51-4aae-b8dbd90e032b
