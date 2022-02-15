@@ -12,6 +12,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Image
 title: Sem_Plan.jpg
-type: OCWImage
 uid: c6d6a6a2-6513-2aa4-3519-ceaf95481f2c
 ---

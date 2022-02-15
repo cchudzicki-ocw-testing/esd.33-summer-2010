@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The 12 Step Process to Develop Critical Parameters
-type: OCWFile
 uid: 01daadbf-1ad9-7a39-7764-fde56f08e083
 ---

@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Critical Parameter Management
-type: OCWFile
 uid: 1e402d07-2db9-9621-8dd0-376008907432
 ---

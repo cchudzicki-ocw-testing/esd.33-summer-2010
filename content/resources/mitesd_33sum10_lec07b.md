@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: PDSS Critical Parameter Development & Mgt. Process Quick Guide
-type: OCWFile
 uid: 69261b72-bed6-0ec4-4f5e-50c12fa7fade
 ---

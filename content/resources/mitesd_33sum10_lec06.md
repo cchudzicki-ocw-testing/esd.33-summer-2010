@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Requirements Driven Systems Design
-type: OCWFile
 uid: 93a63108-bb30-c104-1d93-b024e4cbcf35
 ---

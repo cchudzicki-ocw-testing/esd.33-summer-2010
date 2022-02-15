@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Critical Parameter Development & Mgt.
-type: OCWFile
 uid: 95297204-c1d4-3734-b72f-67193f2aff71
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Innovation in Systems  Engineering
-type: OCWFile
 uid: 688d747e-dcfa-ea34-28fa-599b88c5a30d
 ---

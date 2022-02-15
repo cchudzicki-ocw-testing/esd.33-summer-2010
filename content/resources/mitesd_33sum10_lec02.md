@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Systems Engineering as a Human Activity
-type: OCWFile
 uid: e0fd3c78-5c2d-27e3-d959-9172487e016f
 ---

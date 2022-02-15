@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Experiments: Strategy, Design, Analysis'
-type: OCWFile
 uid: da4f0ab6-37ae-cd86-5f5e-29f617ac42f8
 ---

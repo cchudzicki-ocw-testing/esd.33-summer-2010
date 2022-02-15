@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Requirements Engineering Part 2
-type: OCWFile
 uid: cefc678e-701b-9e75-01b5-ca98fba89080
 ---

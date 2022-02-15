@@ -12,6 +12,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Operating Operating Windows Windows for Robust Concept Design (and other advanced
   topics in Robust Design)
-type: OCWFile
 uid: a3ea8483-fe0d-1c0a-ac89-e716d7c40951
 ---
