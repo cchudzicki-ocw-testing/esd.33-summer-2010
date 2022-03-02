@@ -138,7 +138,7 @@ CPM DFSS
 {{< tdopen >}}
 
 
-Critical Parameter Management ({{< resource_link 1e402d07-2db9-9621-8dd0-376008907432 "PDF" >}}) (Courtesy of Dan Frey and Don Clausing. Used with permission.)
+Critical Parameter Management ({{% resource_link 1e402d07-2db9-9621-8dd0-376008907432 "PDF" %}}) (Courtesy of Dan Frey and Don Clausing. Used with permission.)
 
 "Introduction to Critical Parameter Management." Chapter 8 in _Design for Six Sigma: In Technology and Product Development_. Upper Saddle River, NJ: Prentice Hall, 2002.
 
