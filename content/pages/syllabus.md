@@ -36,7 +36,7 @@ A number of technical papers will also be assigned as pre-reading for the lectur
 
 ## Overall Semester Plan
 
-{{\< resource c6d6a6a2-6513-2aa4-3519-ceaf95481f2c >}}
+{{< resource c6d6a6a2-6513-2aa4-3519-ceaf95481f2c >}}
 
 Lec #1: Course introduction
 
