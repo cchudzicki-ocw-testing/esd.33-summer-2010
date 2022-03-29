@@ -33,7 +33,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d9ebd745-bd9d-bc37-604c-2a271a866b29 "PDF - 2.0MB" %}})
+({{% resource_link d9ebd745-bd9d-bc37-604c-2a271a866b29 "PDF - 2.0MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ Introduction
 Systems engineering as a human activity
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link e0fd3c78-5c2d-27e3-d959-9172487e016f "PDF - 2.1MB" %}})
+({{% resource_link e0fd3c78-5c2d-27e3-d959-9172487e016f "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,9 +71,9 @@ Stakeholders and requirements, requirements and management
 {{< tdopen >}}
 
 
-Part 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 1292005d-75bb-b1ba-def7-f9416fca2a1d "PDF - 1.6MB" %}})
+Part 1 ({{% resource_link 1292005d-75bb-b1ba-def7-f9416fca2a1d "PDF - 1.6MB" %}})
 
-Part 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link cefc678e-701b-9e75-01b5-ca98fba89080 "PDF - 2.1MB" %}})
+Part 2 ({{% resource_link cefc678e-701b-9e75-01b5-ca98fba89080 "PDF - 2.1MB" %}})
 
 
 {{< tdclose >}}
@@ -87,7 +87,7 @@ Part 2 (![This resource may not render correctly in a screen reader.](/images/in
 Innovation in systems engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 688d747e-dcfa-ea34-28fa-599b88c5a30d "PDF - 1.1MB" %}})
+({{% resource_link 688d747e-dcfa-ea34-28fa-599b88c5a30d "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ Innovation in systems engineering
 Requirements driven systems design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 93a63108-bb30-c104-1d93-b024e4cbcf35 "PDF - 3.2MB" %}})
+({{% resource_link 93a63108-bb30-c104-1d93-b024e4cbcf35 "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,11 +119,11 @@ Guest lecturer: Skip Creveling
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 95297204-c1d4-3734-b72f-67193f2aff71 "PDF" %}})
+({{% resource_link 95297204-c1d4-3734-b72f-67193f2aff71 "PDF" %}})
 
 ({{% resource_link 69261b72-bed6-0ec4-4f5e-50c12fa7fade "PDF" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 01daadbf-1ad9-7a39-7764-fde56f08e083 "PDF" %}})
+({{% resource_link 01daadbf-1ad9-7a39-7764-fde56f08e083 "PDF" %}})
 
 (Courtesy of PDSS. Used with permission.)
 
@@ -175,7 +175,7 @@ Guest lecturer: Dan Frey
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link da4f0ab6-37ae-cd86-5f5e-29f617ac42f8 "PDF" %}}) (Courtesy of Daniel Frey. Used with permission.)
+({{% resource_link da4f0ab6-37ae-cd86-5f5e-29f617ac42f8 "PDF" %}}) (Courtesy of Daniel Frey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +211,7 @@ Guest lecturer: Dan Frey
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link a3ea8483-fe0d-1c0a-ac89-e716d7c40951 "PDF" %}}) (Courtesy of Daniel Frey. Used with permission.)
+({{% resource_link a3ea8483-fe0d-1c0a-ac89-e716d7c40951 "PDF" %}}) (Courtesy of Daniel Frey. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
