@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, reading materials, the overall semester plan, time commitment and expectations,
+  grading, and homework assignments.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
