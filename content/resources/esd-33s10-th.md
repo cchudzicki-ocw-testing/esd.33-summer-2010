@@ -12,6 +12,7 @@ image_metadata:
   credit: ''
   image-alt: Fuel and engine management system diagram.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Fuel and Engine Management System (thumbnail)

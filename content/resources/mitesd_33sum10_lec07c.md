@@ -5,6 +5,7 @@ file: /courses/esd-33-systems-engineering-summer-2010/01daadbf1ad97a397764fde56f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
